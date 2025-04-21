@@ -31,9 +31,9 @@ Welcome to **Hum Tum**, a fun and anonymous prom invitation web app where you ca
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Flask (Python)
-- **Database**: SQLite
+- **Database**: (CAN INTEGRATE)
 - **Authentication**: Google OAuth
-- **Hosting**: Flask + DevTunnel/MS Tunnels
+
 
 ---
 
